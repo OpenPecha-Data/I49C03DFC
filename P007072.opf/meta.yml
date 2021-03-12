@@ -5,11 +5,13 @@ source_metadata:
   title: ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར་དང་གསང་སྔགས་སྤྱི་དོན་ནོར་བུའི་འོད་ཟེར་བཅས།
   author: ''
   volumes:
-    371e0d5527534e028ab1aed85695f0ff:
+    5f4f1d96c1974310a8e2cfc14c884709:
       image_group_id: I1KG12824
-      title: ''
+      title: Volume 1 of phyag rgya chen po'i sgom rim gsal bar byed pa'i legs bshad
+        zla ba'i 'od zer sogs/
       volume_number: 1
       total_pages: 528
+      base_file: v001.txt
 ebook_metadata:
   title: ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར་དང་གསང་སྔགས་སྤྱི་དོན་ནོར་བུའི་འོད་ཟེར་བཅས།
   author: ''
